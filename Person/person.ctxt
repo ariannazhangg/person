@@ -2,4 +2,10 @@
 comment0.target=person
 comment1.params=
 comment1.target=person()
-numComments=2
+comment2.params=title\ livedfor\ hasntgonetohellyet
+comment2.target=person(java.lang.String,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ birthday()
+comment4.params=
+comment4.target=void\ funeral()
+numComments=5
